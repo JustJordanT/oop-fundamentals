@@ -1,0 +1,12 @@
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/bin/Debug/net6.0/ACM.BL.deps.json
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/bin/Debug/net6.0/ACM.BL.dll
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/bin/Debug/net6.0/ACM.BL.pdb
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.csproj.AssemblyReference.cache
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.AssemblyInfoInputs.cache
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.AssemblyInfo.cs
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.csproj.CoreCompileInputs.cache
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.dll
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/refint/ACM.BL.dll
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ACM.BL.pdb
+/Users/jordantaylor/Desktop/Development/teach-your-self-cs/oop-fundamentals/ACM.BL/obj/Debug/net6.0/ref/ACM.BL.dll
